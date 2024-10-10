@@ -58,6 +58,8 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
 ### ***Repositorios relevantes***:
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DDMory&repo=LearningJava&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00000&text_color=FFF)](https://github.com/DDMory/LearningJava)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DDMory&repo=LearningJava&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00000&text_color=FFF)](https://github.com/DDMory/Espadinha_Errante)
+
 
 <!--
 **DDMory/DDMory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
