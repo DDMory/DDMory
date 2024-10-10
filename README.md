@@ -8,7 +8,7 @@
 
 ### ***Status no GitHub***
 
-[![Douglas Mory status](https://github-readme-stats.vercel.app/api?username=DDMory&theme=github_dark&show_icons=true)]
+![Douglas Mory status](https://github-readme-stats.vercel.app/api?username=DDMory&theme=github_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDMory&layout=compact&langs_count=8&theme=github_dark&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
 
 
