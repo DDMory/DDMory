@@ -4,7 +4,7 @@
 
 - Estudante de Ciencia da Computação no ***IFB***
 - Tenho 21 anos
-- Sou de Brasilia - Brasil
+- Sou de Brasilia - DF
 
 ### ***Status no GitHub***
 
