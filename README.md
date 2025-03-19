@@ -21,7 +21,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:douglasmory10@gmail.com)
 
 ---
-### ***Tecnologias e Ferramentar:***
+### ***Tecnologias e Ferramentas:***
 
 <p>
 Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportunidade de ter contato e aprender sobre.
