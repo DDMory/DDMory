@@ -6,10 +6,14 @@
 - Tenho 22 anos
 - Sou de Brasilia - DF
 
+<!--
+
 ### ***Status no GitHub***
 
 ![Status](https://github-readme-stats.vercel.app/api?username=DDMory&show_icons=true&theme=github_dark)
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DDMory&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 ### ***Conecte-se comigo em:***
 
@@ -53,12 +57,13 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
 ![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 ---
-
+<!--
 ### ***Repositorios relevantes***:
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DDMory&repo=LearningJava&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00000&text_color=FFF)](https://github.com/DDMory/LearningJava)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DDMory&repo=Espadinha_Errante&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00000&text_color=FFF)](https://github.com/DDMory/Espadinha_Errante)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DDMory&repo=GFT_STARTER&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00000&text_color=FFF)](https://github.com/DDMory/BootCamps_Routes?tab=readme-ov-file)
+-->
 
 
 
