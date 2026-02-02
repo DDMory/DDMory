@@ -3,14 +3,13 @@
 ### ***Sobre mim***
 
 - Estudante de Ciencia da Computação no ***IFB***
-- Tenho 21 anos
+- Tenho 22 anos
 - Sou de Brasilia - DF
 
 ### ***Status no GitHub***
 
-![Douglas Mory status](https://github-readme-stats.vercel.app/api?username=DDMory&theme=github_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDMory&layout=compact&langs_count=8&theme=github_dark&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
-
+![Status](https://github-readme-stats.vercel.app/api?username=DDMory&show_icons=true&theme=github_dark)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DDMory&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ***Conecte-se comigo em:***
 
