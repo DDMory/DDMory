@@ -8,7 +8,6 @@
 
 ### ***Status no GitHub***
 
-<img src="https://github-readme-stats.vercel.app/api?username=DDMory&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 ![Status](https://github-readme-stats.vercel.app/api?username=DDMory&show_icons=true&theme=github_dark)
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DDMory&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
