@@ -43,6 +43,7 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
 
+---
 ### ***Conecte-se comigo em:***
 
 [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-100?style=for-the-badge&logo=)](https://web.dio.me/users/douglasmory10?tab=achievements)
@@ -50,7 +51,7 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DDMory)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:douglasmory10@gmail.com)
 
-
+---
 ### ***Estatistica***:
   <img 
     align="left" 
