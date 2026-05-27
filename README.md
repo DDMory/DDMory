@@ -55,6 +55,7 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
     height="200"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DDMory&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
+  <br>
 </p>
 
 
