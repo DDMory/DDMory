@@ -17,10 +17,11 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
 
 #### ***Linguagens***:
 
-![C](https://img.shields.io/badge/C-100?style=for-the-badge&logo=c&logoColor=0077B5)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=000000)  
-![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)  
+![C](https://img.shields.io/badge/C-100?style=for-the-badge&logo=c&logoColor=0077B5)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
 #### ***SistemaS Operacionais***:
 
