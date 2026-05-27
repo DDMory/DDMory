@@ -2,27 +2,13 @@
 
 ### ***Sobre mim***
 
-- Estudante de Ciencia da Computação no ***IFB***
-- Tenho 22 anos
-- Sou de Brasilia - DF
-
-
-
-### ***Status no GitHub***
-
-![Status](https://github-readme-stats.vercel.app/api?username=DDMory&show_icons=true&theme=github_dark)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DDMory&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### ***Conecte-se comigo em:***
-
-[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-100?style=for-the-badge&logo=)](https://web.dio.me/users/douglasmory10?tab=achievements)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-mory/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DDMory)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:douglasmory10@gmail.com)
+- Estudante de Bacharelado em Ciencia da Computação no ***IFB***
+- Desenvolver .NET em formação  
+- 22 anos  
+- Brasilia - DF  
 
 ---
+
 ### ***Tecnologias e Ferramentas:***
 
 <p>
@@ -31,9 +17,10 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
 
 #### ***Linguagens***:
 
-![C](https://img.shields.io/badge/C-100?style=for-the-badge&logo=c&logoColor=0077B5)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
+![C](https://img.shields.io/badge/C-100?style=for-the-badge&logo=c&logoColor=0077B5)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)  
 
 #### ***SistemaS Operacionais***:
 
@@ -69,3 +56,11 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DDMory&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
 </p>
+
+
+### ***Conecte-se comigo em:***
+
+[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-100?style=for-the-badge&logo=)](https://web.dio.me/users/douglasmory10?tab=achievements)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-mory/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DDMory)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:douglasmory10@gmail.com)
