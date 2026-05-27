@@ -44,7 +44,6 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
 ![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 ### ***Estatistica***:
-<p>
   <img 
     align="left" 
     width="48%"
@@ -56,8 +55,6 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
     height="200"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DDMory&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
-  <br>
-</p>
 
 
 ### ***Conecte-se comigo em:***
