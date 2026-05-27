@@ -3,7 +3,7 @@
 ### ***Sobre mim***
 
 - Estudante de Bacharelado em Ciencia da Computação no ***IFB***
-- Desenvolver .NET em formação  
+- Desenvolvedor .NET em formação  
 - 22 anos  
 - Brasilia - DF  
 
