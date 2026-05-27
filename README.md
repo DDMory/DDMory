@@ -55,28 +55,17 @@ Segue abaixo uma lista de tecnologias e ferramentas com as quais tive a oportuni
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
 
----
-<!--
-### ***Repositorios relevantes***:
+### ***Estatistica***:
+<p>
+  <img 
+    align="left" 
+    width="48%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DDMory&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+  />
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DDMory&repo=LearningJava&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00000&text_color=FFF)](https://github.com/DDMory/LearningJava)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DDMory&repo=Espadinha_Errante&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00000&text_color=FFF)](https://github.com/DDMory/Espadinha_Errante)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DDMory&repo=GFT_STARTER&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00000&text_color=FFF)](https://github.com/DDMory/BootCamps_Routes?tab=readme-ov-file)
--->
-
-
-
-<!--
-**DDMory/DDMory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img 
+    align="left" 
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DDMory&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+  />
+</p>
